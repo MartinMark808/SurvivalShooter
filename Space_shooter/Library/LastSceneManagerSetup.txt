@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Standard Assets/2D/Animations/kimberlyjim.unity
+  isLoaded: 1
+  isActive: 1
